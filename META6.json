@@ -22,7 +22,7 @@
   "resources": [
     "default-holidays.toml"
   ],
-  "source-url": "",
+  "source-url": "https://github.com/tbrowder/HolidayAPI.git",
   "tags": [
     "API",
     "Holiday"

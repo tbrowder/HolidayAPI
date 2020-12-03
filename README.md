@@ -1,3 +1,5 @@
+[![Actions Status](https://github.com/tbrowder/HolidayAPI/workflows/test/badge.svg)](https://github.com/tbrowder/HolidayAPI/actions)
+
 NAME
 ====
 
@@ -30,7 +32,9 @@ Note only the unique portion of a node or option need be entered.
 DESCRIPTION
 ===========
 
-HolidayAPI is ...
+This repo is a work-in-progress and I will add public code here only if there is interest. Please file an issue if you are.
+
+Note even though the Holiday API has not changed, the JSON output format has changed since 2019 (for the better) and I am updating my using code appropriately.
 
 AUTHOR
 ======
