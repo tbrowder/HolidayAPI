@@ -16,8 +16,8 @@
   "name": "HolidayAPI",
   "perl": "6.d",
   "provides": {
+    "Constants": "lib/Constants.rakumod",
     "HolidayAPI": "lib/HolidayAPI.rakumod"
-    "Constants": "lib/Constants.rakumod"
   },
   "resources": [
     "default-holidays.toml"
