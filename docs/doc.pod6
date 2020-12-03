@@ -32,11 +32,16 @@ Note only the unique portion of a node or option need be entered.
 =head1 DESCRIPTION
 
 This repo is a work-in-progress and I will add public code here only
-if there is interest. Please file an issue if you are.
+if there is interest. Please file an issue if you are interested.
 
 Note even though the Holiday API has not changed, the JSON output
 format has changed since 2019 (for the better) and I am updating my
 using code appropriately.
+
+Note the code requires you to have a Holiday API key which you can get
+at no cost from <https://holidayapi.com>. After you get the key,
+install it on your system as the value of environment variable
+'HOLIDAYAPI_KEY'.
 
 =head1 AUTHOR
 
