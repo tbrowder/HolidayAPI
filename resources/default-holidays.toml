@@ -1,0 +1,32 @@
+# key:   my desired name
+# value: holidayapi name
+
+# Armed Forces Day was not usually in the holidayapi database bedire
+# 2020.
+# Use .antipairs on this hash after importing it.
+"Armed Forces Day" = "Armed Forces Day"
+"Christmas Day"    = "Christmas Day"
+"Christmas Eve"    = "Christmas Eve"
+"Columbus Day"     = "Columbus Day"
+"Easter"           = "Easter"
+"Election Day"     = "Election Day"
+"Fathers Day"      = "Father's Day"
+"Flag Day"         = "Flag Day"
+"GW Birthday"      = "George Washington's Birthday"
+"Good Friday"      = "Good Friday"
+"Grand Parent Day" = "National Grandparent's Day"
+"Groundhog Day"    = "Groundhog Day"
+"Halloween"        = "Halloween"
+"Independence Day" = "Independence Day"
+"Labor Day"        = "Labor Day"
+"MLK Day"          = "Martin Luther King Jr. Day"
+"Memorial Day"     = "Memorial Day"
+"Mothers Day"      = "Mother's Day"
+"New Years Day"    = "New Year's Day"
+"New Years Eve"    = "New Year's Eve"
+"Palm Sunday"      = "Palm Sunday"
+"Perl Harbor Day"  = "Pearl Harbor Remembrance Day"
+"St Patricks Day"  = "St. Patrick's Day"
+"Thanksgiving"     = "Thanksgiving Day"
+"Valentines Day"   = "Valentine's Day"
+"Veterans Day"     = "Veterans Day"

@@ -1,0 +1,33 @@
+{
+  "auth": "cpan:TBROWDER",
+  "authors": [
+    "Tom Browder"
+  ],
+  "build-depends": [
+  ],
+  "depends": [
+    "Data::Dump",
+    "JSON::Fast",
+    "Config::TOML",
+    "HTTP::UserAgent"
+  ],
+  "description": "Tools for using the HolidayAPI data at 'https://holidayapi.com'",
+  "license": "Artistic-2.0",
+  "name": "HolidayAPI",
+  "perl": "6.d",
+  "provides": {
+    "HolidayAPI": "lib/HolidayAPI.rakumod"
+    "Constants": "lib/Constants.rakumod"
+  },
+  "resources": [
+    "default-holidays.toml"
+  ],
+  "source-url": "",
+  "tags": [
+    "API",
+    "Holiday"
+  ],
+  "test-depends": [
+  ],
+  "version": "0.0.1"
+}
